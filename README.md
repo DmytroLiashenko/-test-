@@ -16,7 +16,7 @@ npm install
 ```
 npm run webdriver
 
-```
+``
 
 ### Run Protractor tests (in another terminal window)
 
